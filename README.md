@@ -1,3 +1,4 @@
+![MasterHead](https://glivera-team.com/wp-content/uploads/2019/11/fronend-blog.jpg)
 <h1 align="center">Hi 👋, I'm Asad Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
