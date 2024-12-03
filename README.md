@@ -1,22 +1,19 @@
 ![MasterHead](https://glivera-team.com/wp-content/uploads/2019/11/fronend-blog.jpg)
 <h1 align="center">Hi 👋, I'm Asad Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asad-24&label=Profile%20views&color=0e75b6&style=flat" alt="asad-24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asad-24" alt="asad-24" /></a> </p>
 
-- 🌱 I’m currently learning **React and PHP**
+- 🌱 I’m currently learning **Next.js and Python**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Vanilla.js**
+- 💬 Ask me about **React.js, Next.js, Node.js, Vanilla.js**
 
 - 📫 How to reach me **chaudharyasad.370@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahmadowais41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadowais41" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/muhammadahmad.owais.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhammadahmad.owais.7/" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmad.owais11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad.owais11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
